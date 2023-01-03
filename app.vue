@@ -1,5 +1,7 @@
 <template>
   <div>
-    Hola, guapo <Icon name="uil:heart" />
+    <NuxtLoadingIndicator color="red"/>
+    <TheHeader/>
+    <NuxtPage />
   </div>
 </template>
